@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.bak
+
+# Local database (if any)
+*.sqlite3
+*.db

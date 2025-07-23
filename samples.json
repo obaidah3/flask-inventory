@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Apple",
+    "quantity": 100,
+    "price": 0.5,
+    "category": "Fruits"
+  },
+  {
+    "name": "Milk",
+    "quantity": 50,
+    "price": 1.2,
+    "category": "Dairy"
+  },
+  {
+    "name": "Bread",
+    "quantity": 30,
+    "price": 1.0,
+    "category": "Bakery"
+  },
+  {
+    "name": "Rice",
+    "quantity": 200,
+    "price": 0.8,
+    "category": "Grains"
+  },
+  {
+    "name": "Chicken Breast",
+    "quantity": 80,
+    "price": 4.5,
+    "category": "Meat"
+  }
+]
